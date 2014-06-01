@@ -1,0 +1,5 @@
+# www.robotstxt.org/
+
+#Allow crawing of all content
+User-agent: *
+Disallow:
